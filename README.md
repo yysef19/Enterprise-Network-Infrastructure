@@ -56,5 +56,3 @@ Navigate through the repository to explore the engineering logic, documentation,
 - **Wireless:** Centralized WLC (Split-MAC architecture) managing Lightweight APs via CAPWAP tunnels (WPA2-Enterprise/PSK).
 - **Network Services:** DHCP (with Relay Agents), DNS, NTP, Syslog, and Static NAT / Dynamic PAT.
 
----
-*Built to demonstrate a Senior Network Engineering mindset: focusing not just on "making it work", but making it secure, scalable, and highly available.*
