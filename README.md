@@ -1,7 +1,7 @@
 # Enterprise-Network-Infrastructure
 ![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer-blue?logo=cisco) ![Routing](https://img.shields.io/badge/Routing-OSPF%20%7C%20Static-success) ![Switching](https://img.shields.io/badge/Switching-VLAN%20%7C%20STP%20%7C%20EtherChannel-orange) ![Security](https://img.shields.io/badge/Security-Port_Security%20%7C%20DAI%20%7C%20DHCP_Snooping-red)
 
-![Enterprise Campus Network Topology](Architecture%20&%20Topology/Network-Infrastructure.png)
+![Enterprise Campus Network Topology](Architecture%20&%20Topology/Network-Infrastructure.jpg)
 
 ## 📌 Project Overview
 
